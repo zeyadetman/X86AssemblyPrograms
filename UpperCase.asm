@@ -1,7 +1,10 @@
+;Example:
+;welcome
+;Output:
+;WELCOME
+
 ;Program Description: Program 1
 ;Author: Zeyad Etman
-;SeatNo: 2013170177
-;section: 8
 INCLUDE Irvine32.inc
 
 ;INCLUDE C:\Irvine\Irvine32.inc
